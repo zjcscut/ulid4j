@@ -85,7 +85,7 @@ ULID ulid = ulidFactory.ulid();
 ULID ulid = ulidFactory.ulid(15000);
 ```
 
-Other useful methods from an ULID instance.
+Other useful methods:
 
 ```java
 ULIDFactory ulidFactory = ...
